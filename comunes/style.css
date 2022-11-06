@@ -1,0 +1,48 @@
+/* body .body_principal{
+    background-image: url("/comunes/img/ships.jpg");
+} */
+
+.titulos_principales {
+    position: relative;
+    font-size: 40px;
+    width: 600px;
+    height: 40px;
+}
+
+.enlaces_navegacion {
+    position: relative;
+    font-size: 38px;
+}
+
+.div_principal_biblioteca {
+    position: relative;
+}
+
+
+
+#titulo_principal {
+    color: #ddb4a0;
+    text-align: center;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 270px;
+}
+
+#enlace_biblioteca {
+    color: #ddb4a0;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 1700px;
+}
+
+#enlace_libros {
+    color: #ddb4a0;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 1550px;
+}
+
+#volver_inicio {
+    position: absolute;
+    margin-top: 400px;
+}

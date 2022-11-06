@@ -1,2 +1,2 @@
 #!/bin/sh
-psql -h localhost -d biblioteca -U biblioteca < biblioteca.sql
+psql -h localhost -d biblioteca -U biblioteca < comunes/biblioteca.sql
